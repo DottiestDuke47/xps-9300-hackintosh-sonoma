@@ -1,0 +1,6 @@
+/.idea/
+/.mypy_cache/
+/external/*
+/venv/
+
+!external/__init__.py
